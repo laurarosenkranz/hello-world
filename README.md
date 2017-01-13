@@ -1,3 +1,3 @@
 # hello-world
-short description of this repository.
-First change of the new repository.
+Short description of this repository.
+This is new content in a second branch.
